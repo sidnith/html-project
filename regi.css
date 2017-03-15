@@ -1,0 +1,65 @@
+.w{
+    list-style-type:none;
+    overflow:hidden;
+    
+    margin:0;
+    padding: 0;
+}
+.t{
+    float:right;
+     
+}
+.t a{
+    text-decoration: none;
+   
+    padding:10px 12px;
+    text-align: center;
+    color: black;
+    
+}
+.t a:hover{
+    color: blue;
+}
+#t1{
+    margin-right: 80px;
+}
+.pic{
+  margin-left: 20px;
+    height:100px;
+    width:100px;
+    float:left;
+}
+fieldset{
+    max-width: 500px;
+    max-height: 500px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius:8px;
+    border-radius: 8px;
+}
+#new{
+    font-style: italic;
+    font:bold;
+    font-size:1.3em;
+}
+#r{
+    float: left;
+}
+.t2{
+    max-width:800px;
+    max-height:800px;
+    float: left;
+}
+.gender{
+    float:left;
+    width:250px;
+}
+#year{
+    margin-right:-25px;
+}
+#year1{
+    color: black;
+    font-family:monospace;
+    padding:8px 7px;
+    width:250px;
+    height:10px;
+}
