@@ -63,3 +63,10 @@ fieldset{
     width:250px;
     height:10px;
 }
+.a{
+    color:blue;
+    border-color: blue;
+    width: 500px;
+    height: 40px;
+    font-size: 1.2em;
+}
